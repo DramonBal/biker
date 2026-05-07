@@ -13,8 +13,6 @@ video-container {
 video {
   display: block; /* Ensures it's a block-level element */
   margin: auto;   /* Centers horizontally */
-  align-items: center;
-  height: 50vh;
 }
 
 
