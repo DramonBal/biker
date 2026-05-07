@@ -1,6 +1,7 @@
 body {
   text-align: center;
-  background-color: rgb(183, 14, 14);
+  background-color: black;
+ /* background-color: rgb(183, 14, 14);*/
 }
 
 video-container {
