@@ -1,6 +1,8 @@
 body {
+  text-align: center;
   background-color: rgb(183, 14, 14);
 }
+
 video-container {
   display: flex;
   justify-content: center; /* Centers horizontally */
@@ -14,10 +16,17 @@ video {
 }
 
 h1 {
-  text: center;
+  color: blur;
+  text-align: center;
   align-items: center;
   text-transform: uppercase;
   font-size: 3rem;
+}
+
+p {
+  color: blue;
+  font: Roman, serif;
+  font-size: 2rem;
 }
 
 .poster {
