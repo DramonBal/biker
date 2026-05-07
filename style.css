@@ -27,7 +27,7 @@ video {
 
 
 h1 {
-  color: blue;
+  color: white;
   text-align: center;
   align-items: center;
   text-transform: uppercase;
@@ -35,14 +35,14 @@ h1 {
 }
 
 p {
-  color: blue;
+  color: white;
   text-align: center;
   font: Roman, serif;
   font-size: 2rem;
 }
 
 .poster {
-  width: 100%;
+  width: 50%;
   margin-left: 25%;
   margin-top: 100px;
   color: white;
@@ -52,6 +52,6 @@ p {
 
 .motivation-img {
   border: 15px solid rgb(142, 107, 37);
-  width: 100%;
+  width: 50%;
 }
 
