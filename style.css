@@ -16,7 +16,7 @@ video {
 }
 
 h1 {
-  color: blur;
+  color: blue;
   text-align: center;
   align-items: center;
   text-transform: uppercase;
@@ -25,6 +25,7 @@ h1 {
 
 p {
   color: blue;
+  text-align: center;
   font: Roman, serif;
   font-size: 2rem;
 }
