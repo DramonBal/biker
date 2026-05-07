@@ -12,10 +12,10 @@ video-container {
   height: 100vh;           /* Or a specific height for the container */
 }
 
-video {
+/*video {
   display: block; /* Ensures it's a block-level element */
   margin: auto;   /* Centers horizontally */
-}
+}*/
 
 responsive-video {
   width: 100%;    /* Fills the width of its parent container */
@@ -23,19 +23,19 @@ responsive-video {
   height: auto;   /* Maintains the correct aspect ratio */
 }
 
-{
+h1 {
   color: white;
   text-align: center;
   align-items: center;
   text-transform: uppercase;
-  font-size: 3rem;
+  font-size: 5.625rem;
 }
 
 h2 {
   /*color: #b90b31;*/
   color: red;
   font-family: lobster, 'Montserrat', sans-serif;
-  font-size: 4.0rem;
+  font-size: 3.0rem;
   font-weight: normal;
   padding-bottom: 10px;
 }
@@ -53,7 +53,7 @@ hr.custom-line {
 h3 {
   color: white;
   font-family: Georgia,'Montserrat', sans-serif;
-  font-size: 2.5rem;
+  font-size: 2.0rem;
   text-align: center;
 }
 
