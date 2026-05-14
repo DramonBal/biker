@@ -74,4 +74,18 @@ h3 {
   width: 100%;
 }
 
+.container {
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center;     /* Centers vertically */
+  min-height: 100vh;       /* Takes up full screen height */
+}
+
+.calendar {
+  /* Optional: styling for the calendar box */
+  max-width: fit-content;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
 
