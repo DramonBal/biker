@@ -58,6 +58,20 @@ h3 {
   text-align: center;
 }
 
+a:visited {
+  color: #053f21;
+  font-family: Times New Roman, lobster, sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+a:active {
+  color: #EAF6F6;
+}
 
 
 .poster {
